@@ -3,7 +3,7 @@
 This project is a Face Recognition-based Authentication API built with **FastAPI**, **Dlib**, and **MongoDB**. It allows users to register and log in using **facial recognition via webcam**.
 
 > ⚠️ Pretrained Dlib models are stored on Google Drive. Download links are provided below.
-
+> [Models](https://drive.google.com/drive/folders/1wCzHBQQiQEJuTz7SoGfoIF-oJMZL64R1?usp=sharing)
 ---
 
 ## 📌 Features
